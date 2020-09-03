@@ -33,7 +33,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String imagelink;
-  File image;
   ImagePicker picker = ImagePicker();
 
   @override
